@@ -1,4 +1,1 @@
-ime:Dunja 
-prezime: Vlalukin
-zanimanje: QA
-github username:DunjaVlalukin
+Dunja,Vlalukin,QA,DunjaVlalukin
